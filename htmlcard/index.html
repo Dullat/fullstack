@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title></title>
+    <link href="css/style.css" rel="stylesheet">
+    <style>
+    *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    body{
+    height: 100dvh;
+    width: 100%;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    }
+    .main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 2rem;
+    background-color: white;
+    padding: 2rem;
+    box-shadow: 0 0 5px rgba(0,0,0,.5);
+    min-width: 400px;
+    border-radius: .5rem;
+    }
+    .message{
+    display: none;
+    top: 50%;
+    left: 50%;
+    background-color: gray;
+    }
+    .show{
+    display: block;
+    }
+    .profile{
+    height: 70px;
+    width: 70px;
+    display: grid;
+    place-content: center;
+    margin: auto;
+    background-color: gray;
+    border-radius: 100vh;
+    }
+    .cta-btn{
+    background-color: green;
+    box-shadow: 0 0 2px rgba(0,0,0,.2);
+    border-radius: 1rem;
+    border: none;
+    width: 15rem;
+    margin: auto;
+    text-color: white;
+    padding: .5rem;
+    }
+    </style>
+  </head>
+  <body>
+    <div class="main">
+      <div class="profile">D</div>
+      <div class="user-name">
+        <p style="text-align: center; font-size: 1.5rem; font-weight: 600">Dullat</p>
+      </div>
+      <button class="cta-btn">Get message</button>
+      <div class="message">this is message hahahahahahahah</div>
+    </div>
+    <script type='text/javascript'>
+    document.querySelector(".cta-btn").addEventListener("click",() => {
+    document.querySelector(".message").classList.add("show")
+    })
+    </script>
+  </body>
+</html>
+
+<!-- // template literals or backticks -->
+<!-- // main question, why something exist and what problen it soleve , like let and const what was the problem with var -->
