@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "32 FunsAdvance"
             }
+          },
+          {
+            "id": "97863f56ae384d16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javaScript/0000 OObjects remaining.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0000 OObjects remaining"
+            }
+          },
+          {
+            "id": "4ffb90222ba6387c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javaScript/0000 OObjects remaining.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0000 OObjects remaining"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,11 +226,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "d91d8582c21bfadb",
+  "active": "4ffb90222ba6387c",
   "lastOpenFiles": [
+    "javaScript/4.objects.js~",
+    "javaScript/41. Objects Advance intro.md",
+    "javaScript/411. Objects Copy.md",
+    "javaScript/4. Objects Basics.md",
+    "javaScript/0000 OObjects remaining.md",
+    "javaScript/4.objects.js",
+    "javaScript/32 FunsAdvance.md",
     "javaScript/32.funsAdvance.js~",
     "javaScript/3. Funhoisting.md",
-    "javaScript/32 FunsAdvance.md",
     "javaScript/32.funsAdvance.js",
     "javaScript/31.funsTypes.js~",
     "21. Array Concepts.md",
@@ -214,9 +248,7 @@
     "javaScript/equals.md",
     "javaScript/equals.js",
     "javaScript/conditionalStatements.js",
-    "javaScript/assignmentOperator.js",
     "javaScript/2. Array.md",
-    "javaScript/2.array.js",
     "javaScript/22. ArrayMethods.md",
     "javaScript/21. Array Concepts.md",
     "javaScript/1. Strings.md",
