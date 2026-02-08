@@ -41,30 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javaScript/0000 OObjects remaining.md",
+                "file": "node/34. Single Threaded.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0000 OObjects remaining"
-            }
-          },
-          {
-            "id": "4ffb90222ba6387c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javaScript/0000 OObjects remaining.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0000 OObjects remaining"
+              "title": "34. Single Threaded"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,38 +212,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "4ffb90222ba6387c",
+  "active": "97863f56ae384d16",
   "lastOpenFiles": [
+    "node/33. Queues (micro vs macro).md",
+    "node/34. Single Threaded.md",
+    "node/32. Master Event LOOP with Ex.md",
+    "node/31. Example.md",
+    "node/3 Browser vs Node event loop.md",
+    "node/2. Async js.md",
+    "node/1. Event Loop.md",
+    "node/0. Nodejs Basics.md",
+    "node/Learning.md",
+    "node/event loop starvation.md",
+    "node/11. Ticks, and loop.md",
+    "node/1.eventLoop.js~",
+    "node/3. Phases Clarity.md",
+    "node/3.execution.js~",
+    "node/4913",
+    "node/3.execution.js",
+    "node/2.async.js~",
+    "node/h",
+    "node/2.async.js",
+    "node/1.eventLoop.js",
+    "javaScript/0000 OObjects remaining.md",
+    "node",
     "javaScript/4.objects.js~",
     "javaScript/41. Objects Advance intro.md",
     "javaScript/411. Objects Copy.md",
     "javaScript/4. Objects Basics.md",
-    "javaScript/0000 OObjects remaining.md",
-    "javaScript/4.objects.js",
     "javaScript/32 FunsAdvance.md",
-    "javaScript/32.funsAdvance.js~",
     "javaScript/3. Funhoisting.md",
-    "javaScript/32.funsAdvance.js",
-    "javaScript/31.funsTypes.js~",
     "21. Array Concepts.md",
     "javaScript/underthehoodhoistingv8.md",
     "javaScript/rtkcache.md",
-    "javaScript/loops.js",
-    "javaScript/funsTypes.js",
-    "javaScript/functions.js",
     "javaScript/equals.md",
-    "javaScript/equals.js",
-    "javaScript/conditionalStatements.js",
     "javaScript/2. Array.md",
     "javaScript/22. ArrayMethods.md",
     "javaScript/21. Array Concepts.md",
-    "javaScript/1. Strings.md",
-    "21. ArrayMethods.md",
-    "22. ArrayMethods.md",
-    "22. Array Concepts.md",
-    "2. Array.md",
-    "equals.md",
-    "1. Strings.md",
-    "funhoisting.md"
+    "javaScript/1. Strings.md"
   ]
 }
