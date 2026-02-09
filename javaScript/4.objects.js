@@ -1,15 +1,21 @@
 // ################# Object #############
 // collection of key:value pair + prototype pointer
 
+const mySym = Symbol("dj"); // if you want to symbol as key
 const obj1 = {
   a: 1,
   b: "a",
   c() {
     return `${this.a}, ${this.b}`;
   },
+  [mySym]: "mySymKey",
 };
+
+console.log(typeof obj1[mySym]); // string: coz its giving the type of value which is str not the key's type
+console.log(Object.getOwnPropertySymbols(obj1)); // get all the symbols
 const key = "a";
 console.log(obj1.c(), obj1.a, obj1["a"], obj1[key], obj1.key); // obj1.key : undefined
+// keys a immutable , coz strings are immutable in js
 
 // objects are refrence types
 
@@ -93,3 +99,24 @@ console.log(conFun1 instanceof Object); // true
 //   └─ __proto__ → Base.prototype
 //         └─ __proto__ → Object.prototype
 //               └─ __proto__ → null
+
+// ######### delete ############
+objA.name = "dullat";
+console.log(objA);
+delete objA.name; // delete, safely
+console.log(objA, "my name was deleted");
+
+// ######### seal ####################
+// new properties cant be added or removed
+// but existing ones can be changed
+Object.seal(objA);
+objA.sirname = "dullat jatt";
+console.log(objA);
+
+// ########### freezzzzzzzzz ###########
+// works on shallow level
+Object.freeze(objA);
+
+objA.age = 87; // not gonna work coz, its froozzeeennn
+
+console.log(objA);
