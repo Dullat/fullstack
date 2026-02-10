@@ -44,6 +44,9 @@ const user = {
 const shallow = { ...user };
 shallow.address.city = "BLZ";
 
+const { name: username, course } = user;
+console.log(username, "this is username");
+
 console.log(shallow, user); // in both address ref is same to user's address object also manuplated
 
 // deep copy

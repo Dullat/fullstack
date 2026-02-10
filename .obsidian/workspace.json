@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javaScript/interview/Objects.md",
+                "file": "javaScript/45. Inheritance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Objects"
+              "title": "45. Inheritance"
             }
           }
         ],
@@ -214,12 +214,19 @@
   },
   "active": "97863f56ae384d16",
   "lastOpenFiles": [
+    "javaScript/43.this.js~",
+    "javaScript/44. Classes.md",
+    "javaScript/45. Inheritance.md",
+    "javaScript/43. This keyword and global and window.md",
+    "javaScript/0000 OObjects remaining.md",
+    "javaScript/4.objects.js~",
     "javaScript/42. Prototypes.md",
+    "javaScript/43.this.js",
+    "javaScript/4. Objects Basics.md",
     "javaScript/interview/Objects.md",
     "javaScript/interview",
     "node/34. Single Threaded.md",
     "javaScript/41. Objects Advance intro.md",
-    "javaScript/4.objects.js~",
     "javaScript/411. Objects Copy.md",
     "node/33. Queues (micro vs macro).md",
     "node/32. Master Event LOOP with Ex.md",
@@ -238,17 +245,9 @@
     "node/3.execution.js",
     "node/2.async.js~",
     "node/h",
-    "node/2.async.js",
-    "node/1.eventLoop.js",
-    "javaScript/0000 OObjects remaining.md",
-    "javaScript/4. Objects Basics.md",
     "javaScript/32 FunsAdvance.md",
     "javaScript/3. Funhoisting.md",
     "21. Array Concepts.md",
-    "javaScript/underthehoodhoistingv8.md",
-    "javaScript/rtkcache.md",
-    "javaScript/equals.md",
-    "javaScript/2. Array.md",
-    "javaScript/22. ArrayMethods.md"
+    "javaScript/underthehoodhoistingv8.md"
   ]
 }
