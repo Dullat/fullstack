@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javaScript/42. Prototypes.md",
+                "file": "javaScript/interview/Objects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "42. Prototypes"
+              "title": "Objects"
             }
           }
         ],
@@ -214,8 +214,10 @@
   },
   "active": "97863f56ae384d16",
   "lastOpenFiles": [
-    "node/34. Single Threaded.md",
     "javaScript/42. Prototypes.md",
+    "javaScript/interview/Objects.md",
+    "javaScript/interview",
+    "node/34. Single Threaded.md",
     "javaScript/41. Objects Advance intro.md",
     "javaScript/4.objects.js~",
     "javaScript/411. Objects Copy.md",
@@ -239,7 +241,6 @@
     "node/2.async.js",
     "node/1.eventLoop.js",
     "javaScript/0000 OObjects remaining.md",
-    "node",
     "javaScript/4. Objects Basics.md",
     "javaScript/32 FunsAdvance.md",
     "javaScript/3. Funhoisting.md",
@@ -248,7 +249,6 @@
     "javaScript/rtkcache.md",
     "javaScript/equals.md",
     "javaScript/2. Array.md",
-    "javaScript/22. ArrayMethods.md",
-    "javaScript/21. Array Concepts.md"
+    "javaScript/22. ArrayMethods.md"
   ]
 }
