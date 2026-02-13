@@ -69,3 +69,17 @@ let qwak = cars2.map((item, index) => {
 for (i = 1; i <= 20; i++) {
   if (i % 2 === 0) console.log(i);
 }
+
+// ########## spread [...] ############
+
+function getSum(first, second, ...numbers) {
+  return numbers.reduce((accum, item) => {
+    // ignoring the first two values
+    return (accum += item);
+  }, 0);
+}
+
+console.log(
+  getSum(1, 2, 3, 4, 5, 67, 7),
+  "this is total sum using spread, taking args as array",
+);
