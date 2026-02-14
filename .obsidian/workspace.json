@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javaScript/22. ArrayMethods.md",
+                "file": "node/6. osModule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22. ArrayMethods"
+              "title": "6. osModule"
             }
           }
         ],
@@ -214,24 +214,32 @@
   },
   "active": "97863f56ae384d16",
   "lastOpenFiles": [
+    "node/6.osBuiltInModule.js~",
+    "node/5. Builtin Modules.md",
+    "node/6. osModule.md",
+    "node/5. Module Caching.md",
+    "node/5.module.js~",
+    "node/3.execution.js~",
+    "node/5.require.js~",
+    "node/4. Globals.md",
+    "node/5. Modules.md",
+    "node/6.osBuiltInModule.js",
+    "node/5.require.js",
+    "node/5.module.js",
+    "javaScript/22. ArrayMethods.md",
     "javaScript/6.json.js~",
     "javaScript/6.json.js",
     "javaScript/5.errors.js~",
-    "javaScript/5.errors.js",
     "javaScript/3. Funhoisting.md",
     "javaScript/underthehoodhoistingv8.md",
     "javaScript/32 FunsAdvance.md",
     "javaScript/0000 OObjects remaining.md",
     "javaScript/45. Inheritance.md",
-    "javaScript/43.this.js~",
     "javaScript/44. Classes.md",
     "javaScript/43. This keyword and global and window.md",
-    "javaScript/4.objects.js~",
     "javaScript/42. Prototypes.md",
-    "javaScript/43.this.js",
     "javaScript/4. Objects Basics.md",
     "javaScript/interview/Objects.md",
-    "javaScript/interview",
     "node/34. Single Threaded.md",
     "javaScript/41. Objects Advance intro.md",
     "javaScript/411. Objects Copy.md",
@@ -240,15 +248,6 @@
     "node/31. Example.md",
     "node/3 Browser vs Node event loop.md",
     "node/2. Async js.md",
-    "node/1. Event Loop.md",
-    "node/0. Nodejs Basics.md",
-    "node/Learning.md",
-    "node/event loop starvation.md",
-    "node/11. Ticks, and loop.md",
-    "node/1.eventLoop.js~",
-    "node/3. Phases Clarity.md",
-    "node/3.execution.js~",
-    "node/4913",
-    "21. Array Concepts.md"
+    "node/1. Event Loop.md"
   ]
 }

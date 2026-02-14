@@ -30,3 +30,6 @@ fs.readFile("data.txt", () => {
   }, 0);
   setImmediate(() => console.log("11: immediate from 3rd file"));
 });
+const name = "dullat";
+let count = { counter: 0 };
+module.exports = { name, count };
