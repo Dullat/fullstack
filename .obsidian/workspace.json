@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "33328f5d2e8beb87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javaScript/3. Funhoisting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Funhoisting"
-            }
-          },
-          {
             "id": "d91d8582c21bfadb",
             "type": "leaf",
             "state": {
@@ -41,16 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "node/6. osModule.md",
+                "file": "node/9.1 Fs more.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. osModule"
+              "title": "9.1 Fs more"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,40 +200,40 @@
   },
   "active": "97863f56ae384d16",
   "lastOpenFiles": [
+    "node/9.fileModule.js~",
+    "node/9.3 Just read This.md",
+    "node/9.2 More understanding of Loop.md",
+    "node/9. File System Module.md",
+    "node/9.1 Fs more.md",
+    "node/9.fileModule.js",
+    "node/5.1 Module deep.md",
+    "node/Learning.md",
+    "node/8. Path.md",
+    "node/8.path.js~",
+    "javaScript/6.json.js~",
+    "node/8. dirname and filename.md",
+    "node/3.4. Single Threaded.md",
+    "node/8.path.js",
+    "node/3.3. Queues (micro vs macro).md",
+    "node/3.2. Master Event LOOP with Ex.md",
+    "node/3.1. Example.md",
+    "node/7. Process Module.md",
+    "node/7.processBuiltInModule.js~",
+    "node/6. osModule.md",
+    "node/7.processBuiltInModule.js",
     "node/6.osBuiltInModule.js~",
     "node/5. Builtin Modules.md",
-    "node/6. osModule.md",
     "node/5. Module Caching.md",
     "node/5.module.js~",
     "node/3.execution.js~",
-    "node/5.require.js~",
     "node/4. Globals.md",
     "node/5. Modules.md",
-    "node/6.osBuiltInModule.js",
-    "node/5.require.js",
-    "node/5.module.js",
     "javaScript/22. ArrayMethods.md",
-    "javaScript/6.json.js~",
-    "javaScript/6.json.js",
-    "javaScript/5.errors.js~",
     "javaScript/3. Funhoisting.md",
     "javaScript/underthehoodhoistingv8.md",
     "javaScript/32 FunsAdvance.md",
     "javaScript/0000 OObjects remaining.md",
     "javaScript/45. Inheritance.md",
-    "javaScript/44. Classes.md",
-    "javaScript/43. This keyword and global and window.md",
-    "javaScript/42. Prototypes.md",
-    "javaScript/4. Objects Basics.md",
-    "javaScript/interview/Objects.md",
-    "node/34. Single Threaded.md",
-    "javaScript/41. Objects Advance intro.md",
-    "javaScript/411. Objects Copy.md",
-    "node/33. Queues (micro vs macro).md",
-    "node/32. Master Event LOOP with Ex.md",
-    "node/31. Example.md",
-    "node/3 Browser vs Node event loop.md",
-    "node/2. Async js.md",
-    "node/1. Event Loop.md"
+    "javaScript/44. Classes.md"
   ]
 }
