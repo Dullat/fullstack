@@ -76,3 +76,29 @@ async function createTempFile() {
 createTempFile();
 
 // ###### delete and read dir ##########
+async function dirOps() {
+  const dirPath = path.join(os.tmpdir(), "someFolder");
+
+  await fsAwait.mkdir(dirPath);
+  const fileStat = await fsAwait.stat(dirPath);
+  console.log(fileStat);
+
+  await fsAwait.rmdir(dirPath);
+  const read = await fsAwait.readdir(os.tmpdir());
+  console.log(read);
+}
+
+// dirOps();
+
+// ####### watch ##########
+
+async function watchChanges() {
+  const dirData = await fsAwait.readdir(os.tmpdir());
+  console.log(dirData.includes("temp.txt"));
+
+  fs.watch(os.tmpdir(), (eventType, filename) => {
+    if (filename) console.log("changes occured in", filename);
+  });
+}
+
+watchChanges();

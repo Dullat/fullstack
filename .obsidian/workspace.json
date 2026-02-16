@@ -201,10 +201,13 @@
   "active": "97863f56ae384d16",
   "lastOpenFiles": [
     "node/9.fileModule.js~",
+    "javaScript/problems/String.md",
+    "javaScript/interview/Objects.md",
+    "javaScript/22. ArrayMethods.md",
+    "node/9.1 Fs more.md",
     "node/9.3 Just read This.md",
     "node/9.2 More understanding of Loop.md",
     "node/9. File System Module.md",
-    "node/9.1 Fs more.md",
     "node/9.fileModule.js",
     "node/5.1 Module deep.md",
     "node/Learning.md",
@@ -228,12 +231,9 @@
     "node/3.execution.js~",
     "node/4. Globals.md",
     "node/5. Modules.md",
-    "javaScript/22. ArrayMethods.md",
     "javaScript/3. Funhoisting.md",
     "javaScript/underthehoodhoistingv8.md",
     "javaScript/32 FunsAdvance.md",
-    "javaScript/0000 OObjects remaining.md",
-    "javaScript/45. Inheritance.md",
-    "javaScript/44. Classes.md"
+    "javaScript/0000 OObjects remaining.md"
   ]
 }
