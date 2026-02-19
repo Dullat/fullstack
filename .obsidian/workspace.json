@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "node/9.1 Fs more.md",
+                "file": "node/10. Events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.1 Fs more"
+              "title": "10. Events"
             }
           }
         ],
@@ -200,11 +200,19 @@
   },
   "active": "97863f56ae384d16",
   "lastOpenFiles": [
-    "node/9.fileModule.js~",
     "javaScript/problems/String.md",
+    "node/10. Events.md",
+    "node/10.events.js~",
+    "javaScript/7.promise.js~",
+    "javaScript/7.promise.js",
+    "node/9.1 Fs more.md",
+    "node/10.events.js",
+    "node/11.events.js",
+    "node/100.events.js",
+    "node/10.0.events.js",
+    "node/9.fileModule.js~",
     "javaScript/interview/Objects.md",
     "javaScript/22. ArrayMethods.md",
-    "node/9.1 Fs more.md",
     "node/9.3 Just read This.md",
     "node/9.2 More understanding of Loop.md",
     "node/9. File System Module.md",
@@ -213,27 +221,19 @@
     "node/Learning.md",
     "node/8. Path.md",
     "node/8.path.js~",
-    "javaScript/6.json.js~",
     "node/8. dirname and filename.md",
     "node/3.4. Single Threaded.md",
-    "node/8.path.js",
     "node/3.3. Queues (micro vs macro).md",
     "node/3.2. Master Event LOOP with Ex.md",
     "node/3.1. Example.md",
     "node/7. Process Module.md",
-    "node/7.processBuiltInModule.js~",
     "node/6. osModule.md",
-    "node/7.processBuiltInModule.js",
-    "node/6.osBuiltInModule.js~",
     "node/5. Builtin Modules.md",
     "node/5. Module Caching.md",
-    "node/5.module.js~",
-    "node/3.execution.js~",
     "node/4. Globals.md",
     "node/5. Modules.md",
     "javaScript/3. Funhoisting.md",
     "javaScript/underthehoodhoistingv8.md",
-    "javaScript/32 FunsAdvance.md",
-    "javaScript/0000 OObjects remaining.md"
+    "javaScript/32 FunsAdvance.md"
   ]
 }
