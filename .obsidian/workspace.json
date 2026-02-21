@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javaScript/32 FunsAdvance.md",
-                "mode": "preview",
+                "file": "node/11.5 Duplex.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "32 FunsAdvance"
+              "title": "11.5 Duplex"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javaScript/extra/protoype/2. prototype Functions, recreate.md",
+                "file": "node/11.2 Read Stream.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. prototype Functions, recreate"
+              "title": "11.2 Read Stream"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,42 +197,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "97863f56ae384d16",
+  "active": "d91d8582c21bfadb",
   "lastOpenFiles": [
-    "javaScript/46.createNew.js~",
+    "node/11.4 Pipe nd Pipeline.md",
+    "node/11.3.2 Backpressure.md",
+    "node/11.3.1 Buffer and drain in writeStream.md",
+    "node/11.3 Write Stream.md",
+    "node/11.2 Read Stream.md",
+    "node/11.1 Streams deeper.md",
+    "node/11. Streams.md",
+    "node/11.5 Duplex.md",
+    "node/11.3.writeStream.js~",
+    "node/11.2.readStream.js~",
+    "node/11.3.writeStream.js",
+    "node/3.2. Master Event LOOP with Ex.md",
+    "node/1. Event Loop.md",
+    "node/10. Events.md",
+    "node/9.3 Just read This.md",
+    "node/3.3. Queues (micro vs macro).md",
+    "node/11.2.readStream.js",
+    "node/11.streams.js~",
+    "node/11.2readStream.js",
+    "node/streamsAndBuffer",
+    "node/3.3.1 Just read (micro, macro).md",
+    "javaScript/32 FunsAdvance.md",
+    "javaScript/8. This.md",
+    "javaScript/extra/binding.md",
+    "javaScript/46. OOPs concepts.md",
+    "javaScript/8.this.js",
+    "javaScript/44.class.js~",
+    "javaScript/44.class.js",
+    "javaScript/extra/protoype/2. prototype Functions, recreate.md",
     "javaScript/extra/protoype/9991. questions.md",
     "javaScript/extra/protoype/999. Understood.md",
     "javaScript/extra/protoype/3. Modify prototypes.md",
     "javaScript/extra/protoype/visual.md",
-    "javaScript/extra/protoype/2. prototype Functions, recreate.md",
-    "javaScript/46.createNew.js",
     "javaScript/extra/protoype/1. Js Core, prototype.md",
-    "javaScript/extra/protoype",
     "javaScript/42. Prototypes.md",
-    "javaScript/41. Objects Advance intro.md",
-    "node/2. Async js.md",
-    "node/11.streams.js~",
-    "javaScript/32 FunsAdvance.md",
-    "node/11. Streams.md",
-    "node/10. Events.md",
-    "node/11.streams.js",
-    "node/11.streams.jsa",
-    "node/11.streams.ks",
-    "javaScript/problems/String.md",
-    "node/10.events.js~",
-    "javaScript/7.promise.js~",
-    "javaScript/7.promise.js",
-    "node/9.1 Fs more.md",
-    "javaScript/interview/Objects.md",
-    "javaScript/22. ArrayMethods.md",
-    "node/9.3 Just read This.md",
-    "node/9.2 More understanding of Loop.md",
-    "node/9. File System Module.md",
-    "node/5.1 Module deep.md",
-    "node/Learning.md",
-    "node/8. Path.md",
-    "node/8. dirname and filename.md",
-    "node/3.4. Single Threaded.md",
-    "node/3.3. Queues (micro vs macro).md"
+    "javaScript/41. Objects Advance intro.md"
   ]
 }
